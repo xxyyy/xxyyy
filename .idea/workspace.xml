@@ -32,11 +32,7 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/xy4">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="9" selection-start-column="9" selection-end-column="9" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -64,10 +60,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="xy4" />
+        <entry key="$PROJECT_DIR$" value="n2" />
       </map>
     </option>
-    <option name="RESET_MODE" value="HARD" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -137,7 +133,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600935930959</updated>
       <workItem from="1600935932682" duration="1219000" />
-      <workItem from="1601006397324" duration="796000" />
+      <workItem from="1601006397324" duration="1439000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;upd&quot;&#10;&#10;This reverts commit 639ddac3">
       <created>1600936844169</created>
@@ -160,16 +156,31 @@
       <option name="project" value="LOCAL" />
       <updated>1600941753430</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="n2upd4">
+      <created>1601017526106</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601017526106</updated>
+    </task>
+    <task id="LOCAL-00005" summary="xy4udp4">
+      <created>1601017607335</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601017607335</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2992000" />
+    <option name="totallyTimeSpent" value="3635000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2562039" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2562039" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -187,7 +198,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50033534" side_tool="true" weight="0.3896648" />
       <window_info anchor="bottom" id="SonarLint" order="9" weight="0.32960895" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="11" sideWeight="0.49966466" visible="true" weight="0.5502793" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49966466" visible="true" weight="0.41061452" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -260,7 +271,9 @@
     <MESSAGE value="Revert &quot;upd&quot;&#10;&#10;This reverts commit 639ddac3" />
     <MESSAGE value="m2" />
     <MESSAGE value="ad xy4" />
-    <option name="LAST_COMMIT_MESSAGE" value="ad xy4" />
+    <MESSAGE value="n2upd4" />
+    <MESSAGE value="xy4udp4" />
+    <option name="LAST_COMMIT_MESSAGE" value="xy4udp4" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/a" />
@@ -289,11 +302,7 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/xy4">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
